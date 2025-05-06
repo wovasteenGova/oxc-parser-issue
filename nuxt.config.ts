@@ -6,11 +6,7 @@ export default defineNuxtConfig({
       title: 'Nuxt Deployment Solution'
     }
   },
-  
-  // Optimize for Netlify deployment
-  nitro: {
-    preset: 'netlify'
-  },
+
   
   devtools: { enabled: true }
 }) 

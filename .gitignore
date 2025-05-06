@@ -9,7 +9,7 @@ testing_commands.txt
 
 # Node dependencies
 node_modules
-.netl
+.netlify
 # Logs
 logs
 *.log

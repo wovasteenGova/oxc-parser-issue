@@ -5,6 +5,7 @@
 .nitro
 .cache
 dist
+testing_commands.txt
 
 # Node dependencies
 node_modules

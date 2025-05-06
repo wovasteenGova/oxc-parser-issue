@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "netlify-build": "ROLLUP_SKIP_NODEJS=true nuxt build"
+ 
   },
   "dependencies": {
     "nuxt": "3.17.2"

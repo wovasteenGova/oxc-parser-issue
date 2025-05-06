@@ -70,4 +70,4 @@ Set the build command to `npm run netlify-build` in your Netlify dashboard.
 
 ## Why It Works
 
-This solution works by replacing native dependencies with WebAssembly alternatives that run in any environment without needing platform-specific binaries. 
+This solution works by replacing native dependencies with WebAssembly alternatives that run in any environment without needing platform-specific binaries. # oxc-parser-issue
